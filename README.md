@@ -9,7 +9,7 @@ Each session will have dedicated folder with homework in it. You will want to cl
 You can use any editor you want (Notepad++, Sublime Text), but we recommend: **Visual Studio Code**.
 
 ## Browsers
-Although IE and Edge should be sufficient for most of sessions, but we recommend getting one of the more popular browsers: **Chrome or Firefox** to be able to support latest ECMAScript features
+Although IE and Edge should be sufficient for most of sessions, we still recommend getting one of the more popular browsers: **Chrome or Firefox** to be able to use the latest ECMAScript features.
 
 ## Rules
 You want to create **your own GitHub repository** where you will be putting all of your completed homework assignments. This repository should have similar structure as this repository. Each session should have a dedicated folder with completed homework assignment.
@@ -17,8 +17,8 @@ You want to create **your own GitHub repository** where you will be putting all 
 At random, person or group of people will be chosen to present their homework at the beginning of each session, so be prepared.
 
 ## Uploading homework to GitHub
-You can upload your finished homework to the repo using the interface on GitHub:
-- Go to the repository page
+You can upload your finished homework via GitHub:
+- Go to the your repository page
 - Click on the "Upload files" button
 - Drag and drop the folder with homework
 - Click "Commit changes" button
