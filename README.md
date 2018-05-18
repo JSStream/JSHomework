@@ -32,7 +32,7 @@ You can upload your finished homework via GitHub:
 We have five mentors that can help you & guide you towards results. We are here to help not only from technical stand point. So do not hesitate to contact one of us **RBUD, BIE, IGG, KKAJ, ARKL**.
 
 ## Recordings
-Recording could be found in share location under ```I:\Div\B\BB0000-BB9999\BB9000-BB9999\BB9195\Recordings\JS```
+Recording could be found in share location under ```I:\Div\B\BB0000-BB9999\BB9000-BB9999\BB9195\JS```
 
 ## How do I give feedback?
 Surveys for each sessions are listed below, we kindly ask you fill it in after each session. It will help us improve and deliver more quality.
