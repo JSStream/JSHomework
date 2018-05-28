@@ -32,7 +32,7 @@ Some interesting stuff to read about colors (not required)
 You’ll find needed functions and examples in the slides.
 
 * Show alert box when the page is opened [`alert()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
-* Show prompt box  when the page is opened and ask users favorite color [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+* Show prompt box when the page is loaded and ask user to enter his favourite color [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
 * Select title html element [(how to select elements)](https://www.w3schools.com/js/js_htmldom_elements.asp)
 * Use the given color and change title’s color [`document.getElementById("p1").style.color = "red"`](https://www.w3schools.com/js/js_htmldom_css.asp)
 
