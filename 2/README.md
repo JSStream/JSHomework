@@ -27,13 +27,14 @@ Some interesting stuff to read about colors (not required)
 
 ## JavaScript
 
-**Part 1:** (for those who did not finnished it during our lesson)
+**Part 1:** (for those who did not finished it during our lesson)
 
 You’ll find needed functions and examples in the slides.
 
 * Show alert box when the page is opened [`alert()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
 * Show prompt box  when the page is opened and ask users favorite color [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
-* Use the given color and change title’s color [JavaScript DOM CSS](https://www.w3schools.com/js/js_htmldom_css.asp)
+* Select title html element [(how to select elements)](https://www.w3schools.com/js/js_htmldom_elements.asp)
+* Use the given color and change title’s color [`document.getElementById("p1").style.color = "red"`](https://www.w3schools.com/js/js_htmldom_css.asp)
 
 **Part 2 (not required):**
 
