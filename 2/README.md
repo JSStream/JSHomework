@@ -27,7 +27,7 @@ Some interesting stuff to read about colors (not required)
 
 ## JavaScript
 
-**Part 1:** (for those who did not finished it during our lesson)
+**Part 1:**
 
 You’ll find needed functions and examples in the slides.
 
