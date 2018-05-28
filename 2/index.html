@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homework #1</title>
+        <link rel="stylesheet" href="myStyle.css" />
+        <script src="myScript.js"></script>
+    </head>
+    <body>
+        <h2 id="title">The Principle of Least Power</h2>
+        <p id="author">By <i>Jeff Atwood</i></p>
+        <time class="postDate">17 Jul 2007</time>
+        <div class="imageContainer">
+            <img  id="javascriptImage" src="javascript.gif"/>
+        </div>
+        <div id="userName"></div>
+        <div class="textContainer">
+            <div class="column">
+                <p id="specific-id">Tim Berners-Lee on <a href="https://www.w3.org/DesignIssues/Principles.html">the Principle of Least Power</a>: <p> 
+                <blockquote>Computer Science spent the last forty years making languages which were as powerful as possible. Nowadays we have to appreciate the reasons for <strong>picking not the most powerful solution but the least powerful</strong>. The less powerful the language, the more you can do with the data stored in that language. If you write it in a simple declarative from, anyone can write a program to analyze it. If, for example, a web page with weather data has RDF describing that data, a user can retrieve it as a table, perhaps average it, plot it, deduce things from it in combination with other information. At the other end of the scale is the weather information portrayed by the cunning Java applet. While this might allow a very cool user interface, it cannot be analyzed at all. The search engine finding the page will have no idea of what the data is or what it is about. The only way to find out what a Java applet means is to set it running in front of a person.</blockquote>
+            </div>
+            <div class="column">
+                <p>This was later codified in a more formal W3C document, The Rule of Least Power. I propose a corollary to this rule, which in the spirit of recent memes, I'll call <b>Atwood's Law</b>: any application that <em>can</em> be written in JavaScript, <em>will</em> eventually be written in JavaScript.</p> 
+                <p>If you liked that article, I recommend the rest of Berners-Lee's architectural and philosophical points page. Although the content is quite old in internet time-- only two of the articles were written in the last year-- it still contains some timeless nuggets of advice and insight from the guy who invented the world wide web!</p>
+            </div>
+        </div>
+    </body>
+</html>
