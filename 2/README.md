@@ -12,6 +12,7 @@ Part 1:
 Part 2 (not required):
 
 https://www.w3schools.com/css/css3_flexbox.asp
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
 Use flexbox to adjust page layout and make it look like in picture TODO-CSS-2
@@ -22,7 +23,9 @@ Use flexbox to adjust page layout and make it look like in picture TODO-CSS-2
 
 P.S.
 Some interesting stuff to read about colors (not required)
+
 https://www.websitebuilderexpert.com/how-to-choose-color-for-your-website/
+
 https://coolors.co/
 
 
