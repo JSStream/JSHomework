@@ -38,3 +38,4 @@ Recording could be found in share location under ```I:\Div\B\BB0000-BB9999\BB900
 Surveys for each sessions are listed below, we kindly ask you fill it in after each session. It will help us improve and deliver more quality.
 
 1. JS Course /Session1 - https://www.surveymonkey.com/r/W3L5NJX
+2. JS Course /Session2 - https://www.surveymonkey.com/r/W3RBXYF 
