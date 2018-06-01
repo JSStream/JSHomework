@@ -24,6 +24,6 @@ Try these expresions in a browser console and see if you can figure out why you 
 * typeof NaN
 
 Some sources of inspiration:
-http://www.javascripter.net/faq/accuracy.htm
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
-https://www.youtube.com/watch?v=et8xNAc2ic8
+1. http://www.javascripter.net/faq/accuracy.htm
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+1. https://www.youtube.com/watch?v=et8xNAc2ic8
