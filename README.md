@@ -39,3 +39,4 @@ Surveys for each sessions are listed below, we kindly ask you fill it in after e
 
 1. JS Course /Session1 - https://www.surveymonkey.com/r/W3L5NJX
 2. JS Course /Session2 - https://www.surveymonkey.com/r/W3RBXYF 
+3. JS Course /Session3 - https://www.surveymonkey.com/r/W3T66PW
