@@ -2,7 +2,7 @@
 
 Create a simple index.html page with a JavaScript file.
 In the JavaScript file solve these exercises.
-#IF YOU'RE STUCK CHECK OUT THE HINTS FILE.#
+**IF YOU'RE STUCK CHECK OUT THE HINTS FILE.**
 
 ## FizzBuzz
 
