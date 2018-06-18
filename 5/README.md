@@ -1,3 +1,7 @@
+
+Create a simple index.html page with a JavaScript file. In the JavaScript file solve these exercises, display the results in your index.html.
+**IF YOU'RE STUCK CHECK OUT THE HINTS FILE.**
+
 ### 1. Fibonacci and Recursion
 
 Write a JavaScript program to get the first *n* Fibonacci numbers.
