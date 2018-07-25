@@ -39,4 +39,11 @@ Surveys for each sessions are listed below, we kindly ask you fill it in after e
 
 1. JS Course /Session1 - https://www.surveymonkey.com/r/W3L5NJX
 2. JS Course /Session2 - https://www.surveymonkey.com/r/W3RBXYF 
-3. JS Course /Session3 - https://www.surveymonkey.com/r/W3T66PW
+3. JS Course /Session3 - https://www.surveymonkey.com/r/W3T66PW 
+4. JS Course /Session4 - https://www.surveymonkey.com/r/W3MQCTX 
+5. JS Course /Session5 - https://www.surveymonkey.com/r/W33DF88
+6. JS Course /Session6 - https://www.surveymonkey.com/r/W33Q7YW 
+7. JS Course /Session7 - https://www.surveymonkey.com/r/W333L3D
+8. JS Course /Session8 - https://www.surveymonkey.com/r/W33PTZX
+9. JS Course /Session9 - https://www.surveymonkey.com/r/W3G889K
+10. JS Course /Session10 - https://www.surveymonkey.com/r/W3G9RQQ
