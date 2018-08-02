@@ -32,6 +32,6 @@ Really simple:
 Your app’s entry point is in app/main.js.
 
 
-Or you can try doing any some other way ¯\_(ツ)_/¯
+Or you can try doing any some other way ¯\\_(ツ)_/¯
 
 Good luck!
