@@ -27,8 +27,10 @@ Really simple:
 1. Use modules. Read more about them at:
 * Eloquent JavaScript <https://eloquentjavascript.net/10_modules.html>
 * RequireJs (we’ll be using it in our project) <https://requirejs.org/docs/why.html>
-1. Your app’s entry point is in app/main.js.
-1. Write your app!
+
+
+Your app’s entry point is in app/main.js.
+
 
 Or you can try doing any some other way ¯\_(ツ)_/¯
 
