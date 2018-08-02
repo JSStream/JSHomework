@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>My Giphy App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="styles.css" />
+    <script data-main="app" src="lib/require.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <nav class="nav">
+                <div class="nav__header">
+                    <h1><a href="#" id="header-logo" class="navbar__brand no-decoration">My Giphy App</a></h1>
+                </div>
+                <div class="nav__navigation">
+                    <a class="nav__link no-decoration" href="#">Beer</a>
+                    <a class="nav__link no-decoration" href="#">Space</a>
+                    <a class="nav__link no-decoration" href="#">Books</a>
+                    <a class="nav__link no-decoration" href="#">Funny</a>
+                </div>
+            </nav>
+            <div class="search">
+                <input id="search-input" placeholder="Search all the Gifs" class="search__input"/>
+                <button id="search-button" class="search__button">Search</button>
+            </div>
+        </header>
+        <main class="main">
+            <div id="main-content" class="content">
+
+            </div>
+            <button id="load-more-button" class="load-more">Load more</button>
+        </main>
+    </div>
+</body>
+</html>
